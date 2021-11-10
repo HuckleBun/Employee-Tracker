@@ -7,6 +7,7 @@ This application is under the cover of the MIT license.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Connect](#connect)
@@ -56,6 +57,9 @@ npm start
 ```
 
 This will run the program and you are all good to go!
+
+## Demo
+https://user-images.githubusercontent.com/62036600/141058535-6be34f8e-aa1f-4181-a819-48d66707b5f2.mp4
 
 ## Usage
 With easy navigation, you can completely keep track of, remove, add, and update your employee's information all within the terminal.
